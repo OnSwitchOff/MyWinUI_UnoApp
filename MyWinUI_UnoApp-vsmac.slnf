@@ -1,0 +1,18 @@
+{
+  "solution": {
+    "path": "MyWinUI_UnoApp.sln",
+    "projects": [
+		"MyWinUI_UnoApp.Shared\\MyWinUI_UnoApp.Shared.shproj",
+
+		"MyWinUI_UnoApp.Droid\\MyWinUI_UnoApp.Droid.csproj",
+
+		"MyWinUI_UnoApp.iOS\\MyWinUI_UnoApp.iOS.csproj",
+
+		"MyWinUI_UnoApp.Wasm\\MyWinUI_UnoApp.Wasm.csproj",
+
+		"MyWinUI_UnoApp.macOS\\MyWinUI_UnoApp.macOS.csproj",
+
+		"MyWinUI_UnoApp.Skia.Gtk\\MyWinUI_UnoApp.Skia.Gtk.csproj",
+    ]
+  }
+}
